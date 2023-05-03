@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">Soy un programador Fullstack orientado al diseño Front-End. Desde que soy chico siempre estuve en contacto con una computadora y fue de gran interes el mundo de la programacion.</h3>
+<h2 align="center">Hi 👋, I'm Francisco</h2>
+<h3 align="center">My name is Francisco Toti, I'm 26 years old, and I'm from Bahía Blanca, Buenos Aires, Argentina. I graduated with a degree in Entrepreneurship in Design from Universidad Provincial del Sudoeste (UPSO) and I have also completed the Full Stack Developer program at Soy Henry. I'm passionate about design and technology, and I enjoy working on challenging projects with a team. I'm always looking for opportunities to learn and grow professionally. If you're interested in connecting or discussing potential projects, don't hesitate to contact me!</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **React, Redux, Tailwind, Sequelize, Postgresql**
+- 💬 Ask me about **JavaScript, TypeScript, React, Redux, Tailwind, Express, Sequelize, Postgresql**
 
 - 📫 How to reach me **totemstu@gmail.com**
 
